@@ -1,3 +1,4 @@
+#DOCTYLE<HTML>!
 <h1>Kachion2700</h1>
 <h1>Hướng dẫn sử dụng</h1>
 <div id"huong_dan">
@@ -11,4 +12,10 @@
   <img src="https://i.imgur.com/8Xd23Br.png">
   <p><b>B5: Nhập"sky"và dán link web muốn DDoS ở dòng 1 . nhập số 700 ở dòng 2 . cuối cùng nhập số thời gian bạn muốn DDoS</b></p>
   <img src="https://i.imgur.com/8KYMdpg.png">
+  <p><b>Ở đây còn có một số tool khác các bạn có thể tự tìm hiểu nhé . Mình chỉ hướng dẫn ddos của tool này cho các bạn sử dụng</b></p>
 </div>
+<style>
+  #huong_dan{
+    color: blue;
+  }
+ </style> 
