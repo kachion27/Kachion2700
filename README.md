@@ -8,7 +8,5 @@
 <p><b>B3: Chạy file main.py</b></p>
 <img src="https://gcdnb.pbrd.co/images/F640d1EpB0I0.png?o=1">
 <style>
-  #huong_dan{
-    text-alight: cennter;
-  }
+
 </style>
